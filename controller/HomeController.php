@@ -7,7 +7,7 @@ class HomeController
         include 'view/index.php';
     }
 
-    public function getAverage($params)
+    public function getAverage()
     {  
         // Get Data
         $data = $this->get_payload();
