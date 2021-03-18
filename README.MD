@@ -5,7 +5,7 @@ MVC OOP created with PHP from scrath, so this is really really simple MVC.
 
 ## How to Use
 
-When you access ..., you will see the landing page that contains of form. You need to input that form. After that, you will able to click "Get the Answer" Button to get the answers/results. If you wanna to reset everything, then click "Reset" Button.
+When you access https://cryptic-springs-49447.herokuapp.com/ , you will see the landing page that contains of form. You need to input that form. After that, you will able to click "Get the Answer" Button to get the answers/results. If you wanna to reset everything, then click "Reset" Button.
 
 
 ### Note :
