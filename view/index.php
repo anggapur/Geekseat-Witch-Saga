@@ -30,6 +30,7 @@
                     <div class="col-sm-12"> 
                         <h1 class="text-center">The story: Geekseat Witch Saga: Return of The Coder!</h1>
                         <h3 class="text-center">Let's Beat The Witch!</h3>
+                        <h6 class="text-center">v1.0.0</h6>
                     </div>
                 </div>
                 <div id="app">
